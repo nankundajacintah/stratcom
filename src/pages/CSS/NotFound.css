@@ -1,0 +1,17 @@
+.notfound{
+
+}
+.notfound__svg{
+  z-index: -1;
+}
+
+
+.notfound__home{
+  z-index: 10;
+  text-align: center;
+   margin-top: -200px;
+}
+.notfound__home>a{
+  text-decoration: none;
+  color: #fff;
+}

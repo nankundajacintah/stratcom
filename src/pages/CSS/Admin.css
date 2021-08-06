@@ -1,0 +1,10 @@
+.admin__app{
+    display: flex;
+    align-items: center;
+}
+.admin__sidebar{
+    flex:0.3;
+}
+.admin__body{
+    flex:0.7;
+}
